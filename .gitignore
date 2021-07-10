@@ -1,0 +1,5 @@
+/regex/target/*.class
+/regex/target/
+/regex/*.idea
+*.idea
+*.class
